@@ -56,7 +56,7 @@ How to Run the Project
 1. Clone the Repository
 bash
 git clone https://github.com/nandigamaprashanthkumar/AI_ML_INTERNSHIP-ELEVATE-LABS
-cd YOUR_REPO_NAME
+cd AI_ML_INTERNSHIP-ELEVATE-LABS
 2. (Optional) Create a Virtual Environment
 bash
 python -m venv venv
