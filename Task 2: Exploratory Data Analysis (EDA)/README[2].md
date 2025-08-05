@@ -93,7 +93,19 @@ Identified strong patterns, e.g., gender and passenger class significantly impac
 Strengthened understanding of EDA techniques to prepare data for machine learning tasks.
 
 🖼️ Screenshots
-📌
+📌<img width="830" height="573" alt="image" src="https://github.com/user-attachments/assets/e42cd210-4b92-44d1-b9af-0d21968ebbbf" />
+<img width="790" height="591" alt="image" src="https://github.com/user-attachments/assets/1469427d-0518-4301-b5e0-4d458b74292e" />
+<img width="728" height="807" alt="image" src="https://github.com/user-attachments/assets/a53444f3-3c47-430f-bdc6-02fa11712e69" />
+<img width="816" height="807" alt="image" src="https://github.com/user-attachments/assets/fbfe791b-8c92-4452-9aa5-9bcfd9d456a2" />
+<img width="836" height="799" alt="image" src="https://github.com/user-attachments/assets/e5fba49b-5b3c-491d-9080-1315642a5d14" />
+<img width="853" height="799" alt="image" src="https://github.com/user-attachments/assets/7827a12a-517b-406c-a13b-4afe8f680e17" />
+<img width="875" height="801" alt="image" src="https://github.com/user-attachments/assets/e5fbd732-8729-4203-820b-05ad36e2c12b" />
+<img width="555" height="798" alt="image" src="https://github.com/user-attachments/assets/eabbfc17-b386-423d-808d-ce44f9915b87" />
+<img width="581" height="483" alt="image" src="https://github.com/user-attachments/assets/856f17d3-d6d7-4e94-bc43-6de131879b8f" />
+<img width="624" height="483" alt="image" src="https://github.com/user-attachments/assets/337df54c-7770-4fde-aeb7-b2efa017015c" />
+<img width="544" height="419" alt="image" src="https://github.com/user-attachments/assets/25e63dd1-d596-4e56-b658-d0ce2974f4b4" />
+
+
 
 👤 Author
 Nandigama Prashanth Kumar
