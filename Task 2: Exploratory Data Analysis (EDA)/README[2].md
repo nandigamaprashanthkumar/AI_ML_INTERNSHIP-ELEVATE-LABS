@@ -93,7 +93,9 @@ Identified strong patterns, e.g., gender and passenger class significantly impac
 Strengthened understanding of EDA techniques to prepare data for machine learning tasks.
 
 🖼️ Screenshots
-📌<img width="830" height="573" alt="image" src="https://github.com/user-attachments/assets/e42cd210-4b92-44d1-b9af-0d21968ebbbf" />
+📌
+
+<img width="830" height="573" alt="image" src="https://github.com/user-attachments/assets/e42cd210-4b92-44d1-b9af-0d21968ebbbf" />
 <img width="790" height="591" alt="image" src="https://github.com/user-attachments/assets/1469427d-0518-4301-b5e0-4d458b74292e" />
 <img width="728" height="807" alt="image" src="https://github.com/user-attachments/assets/a53444f3-3c47-430f-bdc6-02fa11712e69" />
 <img width="816" height="807" alt="image" src="https://github.com/user-attachments/assets/fbfe791b-8c92-4452-9aa5-9bcfd9d456a2" />
